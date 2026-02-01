@@ -1,4 +1,4 @@
-# Unreal Cpp FPS Multiplayer Game  
+# FPS Multiplayer Game  
 Made using Unreal Engine 5 (Blueprints and C++)
 
 ## Project Overview  
