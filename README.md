@@ -5,7 +5,7 @@
 
 ## Table of Contents
 * [Project Overview](#projectoverview)
-* [Project Details](#projectdetails)
+* [Tech Details](#techdetails)
 * [Gameplay Demo](#demo)
 * [Code Implementation](#code-implementation)
   * [Player Control and Movement](#movement)
@@ -28,9 +28,9 @@
 
 Multiplayer first person shooter framework with movement, weapons, inventory, teams, UI, and full replication.
 
-<a name="projectdetails"></a>
+<a name="techdetails"></a>
 
-## Project Details
+## Tech Details
 
 | Platform | Engine | Duration | Team Size | Roles |
 | --- | --- | --- | --- | --- |
